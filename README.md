@@ -19,7 +19,7 @@ package selenium_test
 
 import (
 	"fmt"
-	"sourcegraph.com/sourcegraph/go-selenium"
+	"github.com/rghose/go-selenium"
 )
 
 func ExampleFindElement() {
